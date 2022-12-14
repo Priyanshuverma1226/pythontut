@@ -1,7 +1,7 @@
 # define a class
 class student:
     # Define a variable
-    name='Student'
+    name=''
     age=0
 # Create a object 1
 s1=student()
