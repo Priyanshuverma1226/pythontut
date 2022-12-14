@@ -17,7 +17,6 @@ print(f'Car 1 Name : {car1.name}')
 # print(car1.third_party_price)
 # print(car1.taxes)
 print("Car 1 Price :",car1.on_road_price())
-
 car2=car()
 car2.name="Wagon R"
 car2.ex_room_price=600000
