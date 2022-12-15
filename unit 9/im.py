@@ -19,6 +19,6 @@ setattr(s1,'age',21)
 print(getattr(s1,'name'),':',getattr(s1,'age'))
 print(hasattr(s1,'dob'))
 print(s1.__dict__)
-
+print(s3.__dict__)
 print(s1.__doc__)
 print(s1.__module__)
